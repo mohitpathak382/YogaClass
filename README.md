@@ -1,7 +1,6 @@
 # YogaClass
 ## ER Diagram
 ![Screenshot 1](/er-diagram.png)
-*Caption for Screenshot 1*
 
 ## Overview
 
