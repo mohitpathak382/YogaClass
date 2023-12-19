@@ -1,6 +1,4 @@
 # YogaClass
-## ER Diagram
-![Screenshot 1](/er-diagram.png)
 
 ## Overview
 
@@ -11,10 +9,12 @@ The **YogaClass** project is a web application developed to facilitate user regi
 - **Backend:** JSP (JavaServer Pages)
 - **Database:** MySQL
 - **Frontend:** HTML, CSS
-## Contributor
-Mohit Pathak 
-## Project Structure
 
+## Contributor
+
+Mohit Pathak 
+
+## Project Architecture
 The project is organized based on the MVC architecture, with the following key components:
 
 - **Model:** Defined using DAO (Data Access Object) and DAOImpl (DAO Implementation) classes, responsible for backend operations and database interactions.
@@ -45,6 +45,8 @@ The project is organized based on the MVC architecture, with the following key c
 4. **Access the Application:**
    - Open the web browser and navigate to the deployed application.
 
+## ER Diagram
+![Screenshot 1](/er-diagram.png)
 
 ## Project Structure
 
