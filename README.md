@@ -9,7 +9,8 @@ The **YogaClass** project is a web application developed to facilitate user regi
 - **Backend:** JSP (JavaServer Pages)
 - **Database:** MySQL
 - **Frontend:** HTML, CSS
-
+## Contributor
+Mohit Pathak 
 ## Project Structure
 
 The project is organized based on the MVC architecture, with the following key components:
@@ -59,7 +60,3 @@ The project is organized based on the MVC architecture, with the following key c
 |   |   |-- /lib
 |   |   |   |-- (JAR files)
 |-- (Other project files)
-
-## Contributor
-Mohit Pathak
-
