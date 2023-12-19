@@ -60,3 +60,4 @@ The project is organized based on the MVC architecture, with the following key c
 |   |   |-- /lib
 |   |   |   |-- (JAR files)
 |-- (Other project files)
+![er-diagram](https://github.com/mohitpathak382/YogaClass/assets/72375729/c8559905-2510-485b-aecf-d9963a15d434)
